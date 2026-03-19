@@ -1,6 +1,34 @@
 GitHub GIT CHEAT SHEET
 
 ----------
+My most used git commands:
+
+- `git clone <repo>`
+
+- `git pull`: to check if changes were made
+
+- `git checkout <branch-name>` to switch branch
+
+- `git add .`: to add changes
+
+- `git commit -m "some message"`
+
+- `git push`or `git push -u origin <your-branch-name>` if branch exists yet only locally 
+
+- `git branch <branch-name>` to create a new branch based on the current one 
+
+    - `git branch <current_name> <new_name>` to rename branch 
+
+- `git status` to check on which branch im currently on
+
+- to merge changes from relase/main branch to current feature branch: 
+
+    - `git merge origin/<release-branch-name>
+
+
+
+
+----------
 
 SETUP
 
