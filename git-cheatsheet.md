@@ -23,7 +23,7 @@ My most used git commands:
 
 - to merge changes from relase/main branch to current feature branch: 
 
-    - `git merge origin/<release-branch-name>
+    - `git merge origin/<release-branch-name>`
 
 
 
